@@ -9,7 +9,7 @@ const memoryContent = {
     content: (
       <>
         <p className={styles.message}>
-          This was during our San Francisco trip. I had a photo of you and Dad but I'm not sure if I ever sent the photo to you.
+          This was during our San Francisco trip. I had a photo of you and Dad but I&apos;m not sure if I ever sent the photo to you.
         </p>
         <div className={styles.imageWrapper}>
           <Image
@@ -28,7 +28,7 @@ const memoryContent = {
     content: (
       <>
         <p className={styles.message}>
-          This was one of your birthdays that we celebrated at Grandma's house. There were two cakes this time because I think either Yali made another one, or she just happened to grab an extra one.
+          This was one of your birthdays that we celebrated at Grandma&apos;s house. There were two cakes this time because I think either Yali made another one, or she just happened to grab an extra one.
         </p>
         <div className={styles.imageWrapper}>
           <Image
@@ -103,7 +103,7 @@ const memoryContent = {
     content: (
       <>
         <p className={styles.message}>
-          This was from so long ago I'm surprised that I have a picture in my camera roll. I think this was when we went to Oregon, but I'm not sure. I do recognize the waterfall being from there.
+          This was from so long ago I&apos;m surprised that I have a picture in my camera roll. I think this was when we went to Oregon, but I&apos;m not sure. I do recognize the waterfall being from there.
         </p>
         <div className={styles.imageWrapper}>
           <Image
