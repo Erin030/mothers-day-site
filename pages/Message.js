@@ -13,8 +13,8 @@ export default function About() {
       <h1 className={styles.title}>Thank You...</h1>
 
       <p className={styles.message}>
-        for doing all that you do for me. I really appreciate it even if I don't always show it.
-        Since I can't get you an actual gift, here are some pretty pictures of flowers I think you would like. 💖
+        for doing all that you do for me. I really appreciate it even if I don&apos;t always show it.
+        Since I can&apos;t get you an actual gift, here are some pretty pictures of flowers I think you would like. 💖
       </p>
 
       <div className={styles.imageWrapper}>
